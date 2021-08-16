@@ -13,7 +13,7 @@ namespace DeliveryKing.Core.Validation
 
         public static bool IsEmptyGuid(this Guid value)
         {
-            return value == null || value == Guid.Empty;
+            return value == Guid.Empty;
         }
 
         public static bool IsNullOrEmptyGuid(this Guid? value)
