@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryKing.Core", "DeliveryKing.Core\DeliveryKing.Core.csproj", "{CDF359C6-D7C0-480A-BA76-462C5F61253F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF359C6-D7C0-480A-BA76-462C5F61253F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF359C6-D7C0-480A-BA76-462C5F61253F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF359C6-D7C0-480A-BA76-462C5F61253F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF359C6-D7C0-480A-BA76-462C5F61253F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98D139DA-6029-41F4-A4F3-2DC57D1EAA49}
+	EndGlobalSection
+EndGlobal
